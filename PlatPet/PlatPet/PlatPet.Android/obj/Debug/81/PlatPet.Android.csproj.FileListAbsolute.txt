@@ -31,6 +31,14 @@ D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipm
 D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xxhdpi\launcher_foreground.png
 D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
 D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\botao1.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\botao2.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\botao3.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\fig1.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\fig2.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\marca1.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\marca2.png
+D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\marca3.png
 D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\R.cs.flag
 D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\R.txt
 D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\uploadflags.txt
@@ -102,12 +110,4 @@ D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\
 D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
-D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\botao1.png
-D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\botao2.png
-D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\botao3.png
-D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\fig1.png
-D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\fig2.png
-D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\marca1.png
-D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\marca2.png
-D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\res\drawable\marca3.png
 D:\Vinicius\PlatPet Mobile\PlatPet\PlatPet\PlatPet.Android\obj\Debug\81\linksrc\PlatPet.dll.mdb

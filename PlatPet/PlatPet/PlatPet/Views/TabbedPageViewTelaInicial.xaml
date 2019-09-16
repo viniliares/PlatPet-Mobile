@@ -1,10 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="PlatPet.Views.TabbedPageViewTelaInicial"
+            xmlns:pages="clr-namespace:PlatPet.Views"
+            x:Class="PlatPet.Views.TabbedPageViewTelaInicial"
              BackgroundColor="#FFFCCF">
   <!--Pages can be added as references or inline-->
-  <ContentPage Title="Categorias" />
-  <ContentPage Title="Mapa" />
+    <ContentPage Title="Categorias">
+        <StackLayout>
+            <Button Text="Banho e Tosa" Clicked="Banho"></Button>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Mapa" />
   <ContentPage Title="Favoritos" />
 </TabbedPage>

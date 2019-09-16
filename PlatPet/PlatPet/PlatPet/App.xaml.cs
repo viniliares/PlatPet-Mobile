@@ -12,7 +12,13 @@ namespace PlatPet
         {
             InitializeComponent();
 
+
+            MainPage = new NavigationPage(new MasterDetailsPageView());
+            //MainPage = new ContentPageViewAgendarConsulta();
+            
+
             MainPage = new MasterDetailsPageView();
+
         }
 
         protected override void OnStart()

@@ -7,7 +7,7 @@
     <ListView x:Name="MenuItemsListView"
               SeparatorVisibility="None"
               HasUnevenRows="true"
-              ItemsSource="{Binding MenuItems}">
+              ItemsSource="{Binding MenuItemsListView}">
       <ListView.Header>
         <Grid BackgroundColor="#E28249">
           <Grid.ColumnDefinitions>

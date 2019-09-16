@@ -26,9 +26,14 @@ namespace PlatPet.Views
         public MasterDetailsPageViewMaster()
         {
             InitializeComponent();
+            OpcoesMenu = new[] {
+                new MasterDetailsPageViewMenuItem {Id = 0, Title = "Meus Pets",
+                TargetType = typeof(ContentPageViewApresentacaoA)}
 
-            BindingContext = new MasterDetailsPageViewMasterViewModel();
+
+        };
             ListView = MenuItemsListView;
+            BindingContext = this;
         }
 
         class MasterDetailsPageViewMasterViewModel : INotifyPropertyChanged

@@ -10,13 +10,11 @@ using Xamarin.Forms.Xaml;
 namespace PlatPet.Views
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class ContentViewPrimeiraApresentacao : ContentView
+	public partial class ContentPageViewApresentacaoA : ContentPage
 	{
-		public ContentViewPrimeiraApresentacao ()
+		public ContentPageViewApresentacaoA ()
 		{
 			InitializeComponent ();
 		}
-
-       
-    }
+	}
 }

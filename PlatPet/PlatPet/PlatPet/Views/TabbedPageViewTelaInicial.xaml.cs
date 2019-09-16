@@ -15,6 +15,11 @@ namespace PlatPet.Views
         public TabbedPageViewTelaInicial ()
         {
             InitializeComponent();
+
+        }
+        async void Banho(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ContentPageViewAgendarConsulta());
         }
     }
 }
