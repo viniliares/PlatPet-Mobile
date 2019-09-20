@@ -19,10 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="Views\ContentPageViewAgendamentoConsulta.xaml" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Compile Update="Views\MasterDetailsPageViewMenuItem.cs">
       <SubType>Code</SubType>
     </Compile>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname" android:installLocation="preferExternal">
   <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="27" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-  <application android:label="PlatPet.Android" android:name="android.app.Application" android:allowBackup="true" android:icon="@mipmap/icon" android:debuggable="true">
+  <application android:label="PlatPet.Android" android:icon="@drawable/marca1" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
     <activity android:configChanges="orientation|screenSize" android:icon="@mipmap/icon" android:label="PlatPet" android:theme="@style/MainTheme" android:name="md5feff4c613e2691a9944b8f8d01852f1e.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

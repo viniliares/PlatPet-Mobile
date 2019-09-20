@@ -29,7 +29,7 @@ namespace PlatPet.Views
            // var monkeyNameLabel = new Label();
             //monkeyNameLabel.SetBinding(Label.TextProperty, new Binding("SelectedItem", source: picker));
 
-            void OnPickerSelectedIndexChanged(object sender, EventArgs e)
+           /* void OnPickerSelectedIndexChanged(object sender, EventArgs e)
             {
                 var picker = (Picker)sender;
                 int selectedIndex = picker.SelectedIndex;
@@ -38,7 +38,7 @@ namespace PlatPet.Views
                 //{
                   //  monkeyNameLabel.Text = (string)picker.ItemsSource[selectedIndex];
                 //}
-            }
+            }*/
 
 
             var list = new List<string>();

@@ -16,5 +16,15 @@ namespace PlatPet.Views
 		{
 			InitializeComponent ();
 		}
-	}
+
+        async void Pular(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ContentPageViewApresentacaoC());
+        }
+
+        async void Proximo(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new MasterDetailsPageView());
+        }
+    }
 }

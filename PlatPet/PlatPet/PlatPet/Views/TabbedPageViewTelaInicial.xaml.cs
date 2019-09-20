@@ -21,5 +21,20 @@ namespace PlatPet.Views
         {
             await Navigation.PushAsync(new ContentPageViewAgendarConsulta());
         }
+
+        async void Consulta(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ContentPageViewAgendarConsulta());
+        }
+
+        async void Adestramento(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ContentPageViewAgendarConsulta());
+        }
+
+        async void Servico(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ContentPageViewAgendarConsulta());
+        }
     }
 }

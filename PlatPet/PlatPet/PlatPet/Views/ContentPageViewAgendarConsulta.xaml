@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="PlatPet.Views.ContentPageViewAgendarConsulta">
     <ContentPage.Content>
+        <ScrollView>
         <StackLayout BackgroundColor="#FFFCCF">
             <Label Text="Empresa"/>
             <Entry></Entry>
@@ -46,7 +47,8 @@
                     </x:Array>
                 </Picker.ItemsSource>
             </Picker>
-            <Button Text="Próximo" CornerRadius="100" BackgroundColor="#E28249"></Button>
+            <Button Text="Confirmar" CornerRadius="100" BackgroundColor="#E28249"></Button>
         </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

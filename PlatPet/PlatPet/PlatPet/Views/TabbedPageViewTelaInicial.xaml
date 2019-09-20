@@ -6,9 +6,51 @@
              BackgroundColor="#FFFCCF">
   <!--Pages can be added as references or inline-->
     <ContentPage Title="Categorias">
-        <StackLayout>
-            <Button Text="Banho e Tosa" Clicked="Banho"></Button>
-        </StackLayout>
+        <RelativeLayout>
+            <Button Text="Banho e Tosa" Clicked="Banho" BorderRadius="10" WidthRequest="172" HeightRequest="80" BackgroundColor="#CF7B47" RelativeLayout.XConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             Property=Width,
+                             Factor=0.29,
+                             Constant=-100}" 
+                       RelativeLayout.YConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             Property=Height,
+                             Factor=0.23,
+                             Constant=-100}"></Button>
+            
+            <Button Text="Consulta Veterinária" Clicked="Consulta"  BorderRadius="10" WidthRequest="172" HeightRequest="80" BackgroundColor="#CF7B47" RelativeLayout.XConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             Property=Width,
+                             Factor=0.78,
+                             Constant=-100}" 
+                       RelativeLayout.YConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             Property=Height,
+                             Factor=0.23,
+                             Constant=-100}"></Button>
+
+            <Button Text="Adestramento" Clicked="Adestramento"  BorderRadius="10" WidthRequest="172" HeightRequest="80" BackgroundColor="#CF7B47" RelativeLayout.XConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             Property=Width,
+                             Factor=0.29,
+                             Constant=-100}" 
+                       RelativeLayout.YConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             Property=Height,
+                             Factor=0.43,
+                             Constant=-100}"></Button>
+
+            <Button Text="Serviços 24 Horas" Clicked="Servico"  BorderRadius="10" WidthRequest="172" HeightRequest="80" BackgroundColor="#CF7B47" RelativeLayout.XConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             Property=Width,
+                             Factor=0.78,
+                             Constant=-100}" 
+                       RelativeLayout.YConstraint =
+      "{ConstraintExpression Type=RelativeToParent,
+                             Property=Height,
+                             Factor=0.43,
+                             Constant=-100}"></Button>
+        </RelativeLayout>
     </ContentPage>
     <ContentPage Title="Mapa" />
   <ContentPage Title="Favoritos" />

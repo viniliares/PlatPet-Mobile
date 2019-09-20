@@ -15,8 +15,8 @@ namespace PlatPet
 
             MainPage = new NavigationPage(new MasterDetailsPageView());
             //MainPage = new ContentPageViewAgendarConsulta();
-            
 
+            //MainPage = new ContentPageViewApresentacaoA();
             MainPage = new MasterDetailsPageView();
 
         }
